@@ -17,6 +17,7 @@
 - Django 3.X
   - Django REST framework
 - Vue.js 2.+
+  - Vue CLI
 
 
 
